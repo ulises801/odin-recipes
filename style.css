@@ -1,0 +1,37 @@
+@import url("https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css"); 
+body{
+    background-color: 232, 229, 220;
+}
+
+h1, h2, h3, a{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+h2, h3{
+    text-decoration: underline;
+}
+
+h3{
+    font-style: italic;
+}
+
+li{
+    text-align: justify;
+    width: 350px;
+    font-size: smaller;
+}
+
+.phrase{
+    color: gray;
+    font-style: italic;
+}
+
+.main-center{
+    text-align: center;
+}
+
+.icon{
+    width: 80px;
+}
